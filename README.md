@@ -8,7 +8,11 @@ Website ini dibuat dengan tujuan untuk menyampaikan perasaan kasih sayang dan ke
 
 ## Teknologi yang Digunakan
 
-Proyek ini dibangun dengan menggunakan HTML dan CSS.
+Proyek ini dibangun dengan menggunakan HTML dan CSS. 
+
+## Dokumentasi
+
+![Screenshot Dokumentasi](documentation.png)
 
 ## Cara Menjalankan Proyek
 
@@ -16,4 +20,3 @@ Proyek ini dibangun dengan menggunakan HTML dan CSS.
 2. Clone repositori ini ke dalam komputer Anda.
 3. Buka file `index.html` di browser web Anda.
 4. Selamat menikmati pesan-pesan dan tampilan yang disajikan!
-
